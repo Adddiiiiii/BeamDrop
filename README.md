@@ -1,11 +1,11 @@
 # BeamDrop
 
 ## 📌 Overview
-NESARW BeamDrop is a backend application designed to handle user registrations and manage database connections efficiently. It is built using **Node.js**, **Express.js**, and **MongoDB**.
+  BeamDrop is a backend application designed to handle user registrations and manage database connections efficiently. It is built using **Node.js**, **Express.js**, and **MongoDB**.
 
 ## 📂 Project Structure
 ```
-nesarw-beamdrop/
+ -beamdrop/
 │── Backend/
 │   ├── app.js                # Main server file
 │   ├── package.json          # Project dependencies
@@ -27,8 +27,8 @@ Make sure you have the following installed:
 ### 2️⃣ Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/nesarw/nesarw-beamdrop.git
-cd nesarw-beamdrop/Backend
+git clone https://github.com/ / -beamdrop.git
+cd  -beamdrop/Backend
 npm install
 ```
 
